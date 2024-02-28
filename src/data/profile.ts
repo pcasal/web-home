@@ -2,7 +2,7 @@ export const profile = {
   name: "pcasal",
   role: "Software Engineer",
   bio: "I'm an old-timer hacker, and human being, trying to wrap my head around the new web3 ideas",
-  imageUrl: "https://ipfs.io/ipfs/QmcWxbonC5KrbWTNSB6UfA78WbkUWH7jowqNpWFKtJvjo4",
+  imageUrl: "https://ipfs.io/ipfs/QmeNURpXkK6WPtpP6zorLdxWysJSHwzbkvS5VipXv2nNUj",
   address: "0xa5cc0B18c596ec8749D02cd68F99b59034934954",
   links: [
     {
