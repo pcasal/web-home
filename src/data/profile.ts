@@ -1,67 +1,43 @@
 export const profile = {
-  name: "Sero",
+  name: "pcasal",
   role: "Software Engineer",
-  bio: "I'm a software engineer that loves building products and teaching others how to do the same.",
-  imageUrl: "https://i.imgur.com/2m4XIqN.png",
-  address: "0xc0163E58648b247c143023CFB26C2BAA42C9d9A9",
+  bio: "I'm an old-timer hacker, and human being, trying to wrap my head around the new web3 ideas",
+  imageUrl: "https://ipfs.io/ipfs/QmcWxbonC5KrbWTNSB6UfA78WbkUWH7jowqNpWFKtJvjo4",
+  address: "0xa5cc0B18c596ec8749D02cd68F99b59034934954",
   links: [
     {
       name: "Twitter",
-      url: "https://twitter.com/seroxdesigns",
+      url: "https://twitter.com/pjcasal",
       icon: "twitter",
     },
     {
       name: "GitHub",
-      url: "https://github.com/Seroxdesign",
+      url: "https://github.com/pcasal",
       icon: "",
     },
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/sero-346b85202/",
+      url: "https://www.linkedin.com/in/pcasal/",
       icon: "",
     },
     {
-      name: "Blog",
-      url: "https://blog.serotonindesigns.com",
+      name: "Medium",
+      url: "https://medium.com/@pcasal",
       icon: "",
-    },
-    {
-      name: 'Podcast',
-      url: 'https://open.spotify.com/show/2HfqI2dFN85uLLFwGqEk0d?si=f918a9d9ea6f4d38',
-      icon: ''
     }
   ],
   projects: [
     {
-      name: 'ETH DENVER BUIDL REPO',
-      description: 'My work at the ETH Denver hackathon',
+      name: 'netlabs',
+      description: 'The OSS & internet services company I co-founded in 1998',
       imageUrl: '',
-      url: 'https://github.com/Seroxdesign/buidl-portfolio'
+      url: 'https://www.netlabs.com.uy'
     },
     {
-      name: 'Superfluid',
-      description: '',
+      name: 'netlabs global',
+      description: 'The export branch of netlabs. Mainly US and Germany',
       imageUrl: '',
-      url: 'https://console.superfluid.finance'
-    },
-    {
-      name: 'Tellor',
-      description: '',
-      imageUrl: '',
-      url: 'https://tellor.io'
-    },
-    {
-      name: 'Pokt',
-      description: '',
-      imageUrl: '',
-      url: 'https://pokt.network'
-    },
-    {
-      name: 'Gitcoin',
-      description: '',
-      imageUrl: '',
-      url: 'https://gitcoin.co'
+      url: 'https://netlabsglobal.io'
     }
-
   ]
 }
